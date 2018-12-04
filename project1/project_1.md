@@ -1,7 +1,7 @@
 GES 486 Project 1
 ===================
 
-![](Project1Map.jpg)
+![](project1map.jpg)
 
 This map shows the concentration of industrial properties
  worth over $500,000 in Baltimore City. The map shows that there is a very high concentration
@@ -10,14 +10,14 @@ This map shows the concentration of industrial properties
  around the main rivers and bodies of water. As you get farther away from the water's edge, the amount
  of industrial properties of this value decrease.
 
-![](Query.JPG)
+![](query.jpg)
 
  This data was retrieved from the Real Property Dataset
  found on the Baltimore City Open GIS Data website. The dataset was converted
  to a Spatial Lite database, and a SQL query was used to single out the industrial
  properties that were worth $500,000 or more. The query is shown in the image above.
 
-![](3DMapV2.JPG)
+![](3dmapv2.jpg)
 
 The image above is a 3D visual of the $500,000+ Industrial Properties map.
 This image helps emphasize the decrease in elevation towards the waters edge, which
