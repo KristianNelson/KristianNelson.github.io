@@ -3,7 +3,7 @@ Kristian Nelson GIS Portfolio
 
 ### Project 1 
 
-![](project_1/3dmapv2.jpg)
+![](project1/3dmapv2.jpg)
 
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
