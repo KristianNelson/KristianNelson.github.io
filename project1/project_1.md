@@ -1,4 +1,4 @@
-GES 486 Project 1
+Baltimore City Industry Map
 ===================
 
 ![](project1map.jpg)
