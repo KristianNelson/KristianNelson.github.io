@@ -7,7 +7,7 @@ Kristian Nelson GIS Portfolio
  
 ### Project 1 
 
-![](project1/3dmapv2.jpg)
+![](project1/p1photo.png)
 
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
@@ -17,11 +17,11 @@ Kristian Nelson GIS Portfolio
  
 </div>
 
-<div style="display: table-cell; width:500px" markdown="1">
+<div style="display: table-cell; width:300px" markdown="1">
 
 ### Project 2
 
-![](project2/coral21.jpg)
+![](project2/p2photo.png)
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
