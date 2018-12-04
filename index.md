@@ -32,3 +32,7 @@ Kristian Nelson GIS Portfolio
 
 <small>__Data Source:__ [Reef Base](http://www.reefbase.org/main.aspx),
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
