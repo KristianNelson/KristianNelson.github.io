@@ -17,7 +17,7 @@ Kristian Nelson GIS Portfolio
 
 ### Project 2
 
-![Coral Bleach Severity](project2/bleach4thselect.jpg)
+![Coral Bleach Severity](coral21.jpg)
 
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
