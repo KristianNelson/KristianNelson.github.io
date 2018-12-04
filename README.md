@@ -1,4 +1,6 @@
-# Kristian Nelson GIS Portfolio
+---
+title: Kristian Nelson GIS Portfolio
+---
 
 
 
