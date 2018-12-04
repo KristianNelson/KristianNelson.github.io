@@ -17,7 +17,7 @@ Kristian Nelson GIS Portfolio
  
 </div>
 
-<div style="display: table-cell; width:300px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
 
 ### Project 2
 
