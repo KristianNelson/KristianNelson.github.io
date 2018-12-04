@@ -3,12 +3,11 @@ Kristian Nelson GIS Portfolio
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:200%; table-layout: fixed">
-<div style="display: table-cell; width:300px; margin-right:5px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:5px" markdown="1">
  
 ### Project 1 
 
 ![](project1/p1photo.png)
-
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
 <small>__Tools:__ QGIS, ArcMap, Atom, SQL
