@@ -1,5 +1,4 @@
+# Kristian Nelson GIS Portfolio
 
-## Kristian Nelson GIS Portfolio
 
-umbc
 
