@@ -1,5 +1,6 @@
-Baltimore City Industry Map
-===================
+---
+title: Baltimore City Industry Map
+---
 
 ![](project1map.jpg)
 
