@@ -3,7 +3,7 @@ Kristian Nelson GIS Portfolio
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:150%; table-layout: fixed">
-<div style="display: table-cell; width:500px; margin-right:20px" markdown="1">
+<div style="display: table-cell; width:500px; margin-right:12px" markdown="1">
  
 ### Project 1 
 
@@ -19,8 +19,7 @@ Kristian Nelson GIS Portfolio
 
 </div>
 
-<div style="display:table-row; width:150%; table-layout: fixed">
-<div style="display: table-cell; width:500px; margin-right:20px" markdown="1">
+<div style="display: table-cell; width:500px" markdown="1">
 
 ### Project 2
 
