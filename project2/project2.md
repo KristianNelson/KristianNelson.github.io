@@ -1,4 +1,4 @@
-GES 486 Project 2
+Global Coral Bleaching Assessment 
 =================
 
 Coral reef bleaching is a major issue that has become an increasing concern
