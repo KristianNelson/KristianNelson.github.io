@@ -1,5 +1,6 @@
-Global Coral Bleaching Assessment 
-=================
+---
+title: Global Coral Bleaching Assessment
+---
 
 Coral reef bleaching is a major issue that has become an increasing concern
 with the threat of climate change. As oceans start to warm due to a warming climate,
