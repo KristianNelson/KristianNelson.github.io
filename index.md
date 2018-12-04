@@ -1,5 +1,7 @@
-Kristian Nelson GIS Portfolio
-=============================
+---
+title: Kristian Nelson GIS Portfolio
+---
+
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:200%; table-layout: fixed">
