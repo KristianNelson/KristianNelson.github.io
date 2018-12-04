@@ -2,7 +2,7 @@ Kristian Nelson GIS Portfolio
 =============================
 
 <!--This is the first row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display:table-row; width:150%; table-layout: fixed">
 <div style="display: table-cell; width:500px; margin-right:1px" markdown="1">
  
 ### Project 1 
