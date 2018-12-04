@@ -13,6 +13,7 @@ title: Kristian Nelson GIS Portfolio
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
 <small>__Tools:__ QGIS, ArcMap, Atom, SQL
+ 
 <small>__Data Source:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
  [MD iMap](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)
  
