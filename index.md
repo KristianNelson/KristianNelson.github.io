@@ -3,7 +3,7 @@ Kristian Nelson GIS Portfolio
 
 ### Project 1 
 
-![Baltimore Industry Mapping](project_1/3dmapv2.jpg)
+![](project_1/3dmapv2.jpg)
 
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
@@ -17,7 +17,7 @@ Kristian Nelson GIS Portfolio
 
 ### Project 2
 
-![Coral Bleach Severity](coral21.jpg)
+![](project2/coral21.jpg)
 
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
