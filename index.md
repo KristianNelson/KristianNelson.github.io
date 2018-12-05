@@ -19,7 +19,7 @@ title: Kristian Nelson GIS Portfolio
  
 </div>
 
-<div style="display: table-cell; width:10px">&nbsp;	
+<div style="display: table-cell; width:30px">&nbsp;	
 
 </div>
 
