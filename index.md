@@ -27,7 +27,7 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 2
 
-![](project2/p2photo.png)
+<kbd>![](project2/p2photo.png)</kbd>
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
