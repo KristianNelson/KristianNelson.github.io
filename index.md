@@ -9,7 +9,7 @@ title: Kristian Nelson GIS Portfolio
  
 ### Project 1 
 
-<kbd>![https://kristiannelson.github.io/project1/project_1.html](project1/p1photo.png)</kbd>
+![](project1/p1photo.png)
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
 <small>__Tools:__ QGIS, ArcMap, Atom, SQL
@@ -27,7 +27,7 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 2
 
-<kbd>![](project2/p2photo.png)</kbd>
+![](project2/p2photo.png)
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
