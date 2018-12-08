@@ -42,5 +42,5 @@ far I have not been able to do this but I will be in the final project if I can 
 ### Part 3
 
 To go above and beyond, I also want to try and incorporate some remote sensing into this project. I have never used a Thermal
-band form Landsat 8 and would like to download some imagery from around May 3, 2018 when Kilauea erupted, and use the Thermal
+band from Landsat 8 and would like to download some imagery from around May 3, 2018 when Kilauea erupted, and use the Thermal
 band to show where the lava flowed across the island. 
