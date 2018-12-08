@@ -43,13 +43,11 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 3
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![](bloededam/fullsizeoutput_363.jpeg)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
-<small>__Tools__: 
-
-<small>__Data__: 
+<small>__Tools__: Agisoft Photoscan, ArcMap, Cloud Compare
 
 </div>
 
