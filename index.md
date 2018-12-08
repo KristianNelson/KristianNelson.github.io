@@ -7,7 +7,7 @@ title: Kristian Nelson GIS Portfolio
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:10px" markdown="1">
  
-### Baltimore Industries 
+### Project 1 
 
 <kbd><img src="https://KristianNelson.github.io/project1/p1photo.png" /></kbd>
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
@@ -25,7 +25,7 @@ title: Kristian Nelson GIS Portfolio
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Coral Bleaching
+### Project 2
 
 <kbd><img src="https://KristianNelson.github.io/project2/p2photo.png" /></kbd>
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
