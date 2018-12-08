@@ -36,4 +36,21 @@ title: Kristian Nelson GIS Portfolio
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
 
 </div>
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+### Project 3
+
+![It's Fine Alt Text](project3_demo/p3_teaser.png)
+
+[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+
+<small>__Tools__: 
+
+<small>__Data__: 
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
