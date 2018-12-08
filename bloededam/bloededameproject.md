@@ -8,5 +8,5 @@ American Rivers to test out a new method of river physical monitoring using emer
 Using drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. 
 The point clouds that were created were then used to make digital elevation models as well as orthomosaics of the river. The photo below shows a point cloud that was created from the lower flood plain of the Patapsco. These clouds are made up of millions of points that each have XYZ values associated with them.
 
-![](Picture1.png)
+![](2.png)
 
