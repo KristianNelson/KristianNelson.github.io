@@ -43,7 +43,7 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 3
 
-![](bloededam/fullsizeoutput_363.jpeg)
+![](bloededam/dam.png)
 
 [See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
