@@ -2,8 +2,8 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Project 1: /project1/project_1.html
-  Project 2: /project2/project2.html
+  Baltimore Industries: /project1/project_1.html
+  Coral Beaching: /project2/project2.html
   Final Project Proposal: /final_proposal.html
   Bloede Dam Project: /bloededam/bloededameproject.html
   
