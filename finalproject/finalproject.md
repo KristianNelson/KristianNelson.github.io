@@ -69,4 +69,4 @@ __Significance Map:__
 
 __Cluster Map:__
 
-![](clustermap.png)
+![](clustermapjpg.JPG)
