@@ -9,3 +9,41 @@ The first thing I had to do was gather housing data for the big island of Hawaii
 ![](ParcelQuery.JPG)
 
 The next step was to load in the [lava flow data]() and the [fire risk data](). I used python scripts to make a selection from each of the data sets because there was a lot of extra information that wasn't needed. For instance, the lava flow data had over 9 specific zones, but zone 9 through zone 3 were used to show historic lava flows. Zones 1 through 3 were the zones that showed current lava flow risk, so I needed to select only these zones. The same system was used for the fire risk data. The scripts I used are shown below.
+
+Script to load in lava flow data:
+
+```python
+lavahazard = QgsVectorLayer('Z:/GES486/Final_Project/Volcano_Lava_Flow_Hazard_Zones/Volcano_Lava_Flow_Hazard_Zones.shp', 'lavahazard')
+lavahazard.isValid()
+# Should Return "True"
+QgsProject.instance().addMapLayer(lavahazard)
+# Should return "<qgis._core.QgsVectorLayer object at 0x000001714E5500D8>"
+
+selection = lavahazard.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"hzone" < 4'))
+lavahazard.selectByIds([s.id() for s in selection])
+iface.mapCanvas().zoomToSelected()
+QgsVectorFileWriter.writeAsVectorFormat(lavahazard, r'Z:/GES486/Final_Project/Volcano_Lava_Flow_Hazard_Zones/lavahazardselect.gpkg', 'utf-8', lavahazard.crs(),'GPKG', True)
+
+LavaHazardSelect = QgsVectorLayer('Z:/GES486/Final_Project/Volcano_Lava_Flow_Hazard_Zones/lavahazardselect.gpkg', 'LavaHazardSelect')
+LavaHazardSelect.isValid()
+QgsProject.instance().addMapLayer(LavaHazardSelect)
+```
+
+Script to load in fire risk data:
+
+```python
+firehazard = QgsVectorLayer('Z:/GES486/Final_Project/Fire_Risk_Areas/Fire_Risk_Areas.shp', 'firehazard')
+firehazard.isValid()
+# Should Return "True"
+QgsProject.instance().addMapLayer(firehazard)
+# Should return "<qgis._core.QgsVectorLayer object at 0x000001714E5500D8>"
+
+selection = firehazard.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"risk_ratin" = \'High\' OR "risk_ratin" = \'Medium\' OR "risk_ratin" = \'Low\''))
+firehazard.selectByIds([s.id() for s in selection])
+iface.mapCanvas().zoomToSelected()
+QgsVectorFileWriter.writeAsVectorFormat(firehazard, r'Z:/GES486/Final_Project/Fire_Risk_Areas/firehazardselect.gpkg', 'utf-8', firehazard.crs(),'GPKG', True)
+
+FireHazardSelect = QgsVectorLayer('Z:/GES486/Final_Project/Fire_Risk_Areas/firehazardselect.gpkg', 'FireHazardSelect')
+FireHazardSelect.isValid()
+QgsProject.instance().addMapLayer(FireHazardSelect)
+```
