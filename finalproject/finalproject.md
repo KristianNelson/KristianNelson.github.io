@@ -65,8 +65,8 @@ I was curious to see if there was any correlation between lava flow paths and ar
 
 __Significance Map:__
 
-![](sigmapjpg.jpg)
+![](sigmapjpg.JPG)
 
 __Cluster Map:__
 
-![](clustermapjpg.jpg)
+![](clustermapjpg.JPG)
