@@ -51,3 +51,18 @@ title: Kristian Nelson GIS Portfolio
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+### Project 4
+
+![](finalproject/coverphoto.jpg)
+
+[See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
+
+<small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
+
+<small>__Data__:
+
+</div>
+</div>
+
+
