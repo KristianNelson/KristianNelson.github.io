@@ -29,7 +29,7 @@ LavaHazardSelect.isValid()
 QgsProject.instance().addMapLayer(LavaHazardSelect)
 ```
 
-Script to load in and edit fire risk data:
+__Script to load in and edit fire risk data:__
 
 ```python
 firehazard = QgsVectorLayer('Z:/GES486/Final_Project/Fire_Risk_Areas/Fire_Risk_Areas.shp', 'firehazard')
@@ -48,4 +48,12 @@ FireHazardSelect.isValid()
 QgsProject.instance().addMapLayer(FireHazardSelect)
 ```
 Maps were then created showing the fire risk and lava flow risk around the island. I focused in on three areas of the island that had a lot of expensive homes to see where they landed in these risk areas. Below are the fire and lava risk maps.
+
+__Lava Flow Risk Map:__
+
+![](lavaflowriskmap.jpg)
+
+__Fire Risk Map__
+
+![](fireriskmap.jpg)
 
