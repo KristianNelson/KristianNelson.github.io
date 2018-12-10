@@ -86,4 +86,7 @@ The results need to be looked at differently than how you would normally read th
 
 As an extra visual, I was curious to see how the island looked after the eruption of Kilauea on May 3, 2018. This is a recent eruption that could show these lava flow zones in real life, and not just as a shape file. To do this, I had to download four sets of Landsat 8 imagery from the [USGS Earth Explorer](https://earthexplorer.usgs.gov/). I then took only the thermal band from each set and created a mosaic from them in ArcMap. The thermal mosaic was then given a color ramp and overlaid with a DEM to show how the temperature differences on the island around that time. There are some errors due to clouds, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island. 
 
+__Thermal IR 3D Map:__
 ![](lavaflow.gif)
+
+
