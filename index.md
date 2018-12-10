@@ -54,7 +54,7 @@ title: Kristian Nelson GIS Portfolio
 
 </div>
 
-<div style="display: table-cell; width:700px" markdown="1">
+<div style="display: table-cell; width:900px" markdown="1">
 
 ### Project 4: Hawaii Housing Risk
 
