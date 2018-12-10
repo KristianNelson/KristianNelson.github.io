@@ -53,7 +53,7 @@ __Lava Flow Risk Map:__
 
 ![](lavaflowriskmap2.jpg)
 
-__Fire Risk Map__
+__Fire Risk Map:__
 
 ![](fireriskmap2.jpg)
 
