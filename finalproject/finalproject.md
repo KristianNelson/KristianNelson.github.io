@@ -51,9 +51,9 @@ Maps were then created showing the fire risk and lava flow risk around the islan
 
 __Lava Flow Risk Map:__
 
-![](lavaflowriskmap.jpg)
+![](lavaflowriskmap2.jpg)
 
 __Fire Risk Map__
 
-![](fireriskmap.jpg)
+![](fireriskmap2.jpg)
 
