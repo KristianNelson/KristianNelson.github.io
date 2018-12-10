@@ -4,6 +4,10 @@ title: Fire and Lava Flow Risk Assessment for Expensive Homes in Hawaii
 
 This project looks at the risks of lava flow and wild fires that expensive homes in Hawaii face. For this project, I wanted to create a mock-up house insurance quote job that would look at where homes on Hawaii are at most risk. Insurance companies then use these findings to determine whether they want to insure a home or not, and how much the insurance will cost. I specifically looked at lava flow and fire because those were the two variables I was most interested in. Of course, there are many other risks that home owners face in this part of the world. 
 
+For context and to get a visual of what this island looks like, here is a 3D map of the big island of Hawaii. 
+
+![]()
+
 The first thing I had to do was gather housing data for the big island of Hawaii. I downloaded [parcel data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5) and extracted the homes that were above the average housing price in Hawaii. I used SQL to run a query to make this selection, and only choose buildings that were residential, or being rented out to residents. The query I ran is below. 
 
 ![](ParcelQuery.JPG)
@@ -55,11 +59,14 @@ __Lava Flow Risk Map:__
 
 You can see that the town of Kahaluu-Keauhou does not have any risk of lava flow based on current active volcanoes. The town of Hilo has some risk of lava flow, but is not at high risk or even at medium risk. Only the resort area of Waikoloa Village has some risk of lava flow, but the town to the east does not have any risk based on current active volcanoes. 
 
+In addition to this map, 3D maps were created to show why the lava flows the way it does
+
 __Fire Risk Map:__
 
 ![](fireriskmap2.jpg)
 
 According to this map, Waikoloa and Kahaluu-Keaulou ar both in high risk areas of fires, with some parts either having medium risk or no risk at all. Hilo has the lowest risk out of all 3 towns when it comes to risk of fires. 
+
 
 I was curious to see if there was any correlation between lava flow paths and areas of fire risk. Are high risk areas of fires also at high risk areas of lava flow? Or are high risk areas of lava flow at low risk of fires due to lack of dense vegetation? To do this, I ran a multivariate Moran's I to build a cluster map.
 
