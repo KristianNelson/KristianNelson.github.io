@@ -6,7 +6,7 @@ This project looks at the risks of lava flow and wild fires that expensive homes
 
 For context and to get a visual of what this island looks like, here is a 3D map of the big island of Hawaii. 
 
-![]()
+![](truecolorgif.gif)
 
 The first thing I had to do was gather housing data for the big island of Hawaii. I downloaded [parcel data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5) and extracted the homes that were above the average housing price in Hawaii. I used SQL to run a query to make this selection, and only choose buildings that were residential, or being rented out to residents. The query I ran is below. 
 
