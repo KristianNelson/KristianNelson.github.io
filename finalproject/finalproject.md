@@ -51,13 +51,11 @@ FireHazardSelect = QgsVectorLayer('Z:/GES486/Final_Project/Fire_Risk_Areas/fireh
 FireHazardSelect.isValid()
 QgsProject.instance().addMapLayer(FireHazardSelect)
 ```
-Maps were then created showing the fire risk and lava flow risk around the island. I focused in on three areas of the island that had a lot of expensive homes to see where they landed in these risk areas. Waikoloa Village is in the northwestern part of the island, Hilo is in the northeastern side of the island, and Kahaluu-Keauhou is in the southwester side of the island just above Captain Cook. The map below shows town locations which was taken from [World Atlas](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.htm)
+Maps were then created showing the fire risk and lava flow risk around the island and are shown below. I focused in on three areas of the island that had a lot of expensive homes to see where they landed in these risk areas. Waikoloa Village is in the northwestern part of the island, Hilo is in the northeastern side of the island, and Kahaluu-Keauhou is in the southwester side of the island just above Captain Cook. The map below shows town locations which was taken from [World Atlas](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.htm).
 
 __Location Map:__
 
 ![](locationmap.gif)
-
-Lava flow and fire risk maps are shown below.
 
 __Lava Flow Risk Map:__
 
@@ -94,10 +92,10 @@ As an extra visual, I was curious to see how the island looked after the eruptio
 
 ![](kalamap.jpg)
 
-This is a recent eruption that could show these lava flow zones in real life, and not just as a shape file. To do this, I had to download four sets of Landsat 8 imagery from the [USGS Earth Explorer](https://earthexplorer.usgs.gov/). I then took only the thermal band from each set and created a mosaic from them in ArcMap. The thermal mosaic was then given a color ramp and overlaid with a DEM to show how the temperature differences on the island around that time. There are some errors due to clouds, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island. 
+This is a recent eruption that could show these lava flow zones in real life, and not just as a shape file. To do this, I had to download four sets of Landsat 8 imagery from the [USGS Earth Explorer](https://earthexplorer.usgs.gov/). I then took only the thermal band from each set and created a mosaic from them in ArcMap. The thermal mosaic was then given a color ramp and overlaid with a DEM to show how the temperature differences on the island around that time. There are some errors due to clouds, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island.
 
 __Thermal IR 3D Map:__
 
 ![](lavaflow.gif)
 
-
+From the information shown, you can see the areas around Hawaii that have risks that other areas don't have. This is useful information for not only insurance companies, but people who are trying to build a home or buy a home somewhere on the island. With the eruption of Kilauea just last summer, the threat of lava flow is still very real, and the same goes for fires. It is imporant to understand where these risks occur spatially so that policies can be put in place and people can stay safe. My analysis is not something that only applies to Hawaii, but is something that can be done for areas all over the world. Whether it is flooding, hurricanes, or any other natural disaster, risk assessments are valuable to not only companies, but regular people who are trying to stay safe in this changing climate. With climate change becoming more of risk and previously safe environments becoming more hazardous, it is extremely important to know where areas of risk are so that further damage can be avoided. 
