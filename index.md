@@ -31,6 +31,7 @@ title: Kristian Nelson GIS Portfolio
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
+ 
 <small>__Data Source:__ [Reef Base](http://www.reefbase.org/main.aspx),
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
 
