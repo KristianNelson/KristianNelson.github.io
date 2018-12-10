@@ -9,10 +9,6 @@ the coral to "bleach" and they eventually starve to death because of the lack of
 This project is ultimately trying to shed light on the severity of coral bleaching around the globe,
 and how it has gotten increasingly worse over just the past 50 years.
 
-![](coral21.jpg)
-
-Picture from: [AtollVolunteers](https://www.atollvolunteers.com/coral-bleaching/)
-
 This project was done using python code in QGIS to select out certain periods of ultimately
 that had high amounts of coral bleaching. Below are the scripts that were used and
 what each of them does.
