@@ -44,7 +44,6 @@ title: Kristian Nelson GIS Portfolio
 ### Project 3
 
 ![](bloededam/dam.png)
-
 [See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
 <small>__Tools__: Agisoft Photoscan, ArcMap, Cloud Compare
@@ -60,7 +59,6 @@ title: Kristian Nelson GIS Portfolio
 ### Project 4
 
 ![](finalproject/coverphoto.JPG)
-
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
 <small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
