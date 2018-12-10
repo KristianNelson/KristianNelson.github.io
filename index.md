@@ -66,5 +66,16 @@ title: Kristian Nelson GIS Portfolio
 
 </div>
 </div>
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:700px; margin-right:3px" markdown="1">
 
+### Project 5: UMBC Soil Erosion
 
+![](soilerosion/soilcover.png)
+[See more details here.](https://KristianNelson.github.io/soilerosion/soilerosion.html)
+
+<small>__Tools__: ArcMap
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
