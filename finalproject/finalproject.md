@@ -61,12 +61,11 @@ __Fire Risk Map:__
 
 According to this map, Waikoloa and Kahaluu-Keaulou ar both in high risk areas of fires, with some parts either having medium risk or no risk at all. Hilo has the lowest risk out of all 3 towns when it comes to risk of fires. 
 
-I was curious to see if there was any correlation between lava flow paths and areas of fire risk. Are high risk areas of fires also at high risk areas of lava flow? Or are high risk areas of lava flow at low risk of fires due to lack of dense vegetation? To do this, I ran a multivariate Moran's I to build a cluster map and a significance map. These maps are shown below. 
-
-__Significance Map:__
-
-![](sigmapjpg.JPG)
+I was curious to see if there was any correlation between lava flow paths and areas of fire risk. Are high risk areas of fires also at high risk areas of lava flow? Or are high risk areas of lava flow at low risk of fires due to lack of dense vegetation? To do this, I ran a multivariate Moran's I to build a cluster map.
 
 __Cluster Map:__
 
 ![](clustermapjpg.JPG)
+
+The results need to be looked at differently than how you would normally read this type of map. The highest value of risk in table of this data is 1. This means that the highest value (3) means low risk of either lava flow or fire. So areas that are High-High have low risk of lava flow, and low risk of fires. Areas with Low-Low have high risk of lava flow, and high risk of fires. To answer my question above, we look at the areas that have a value of High-Low. This shows that there is high risk of lava flow, but low risk of fires. These areas do not have a lot of vegetation which might prove that most of the time, where there is high risk of lava flow, there is low risk of fires. 
+
