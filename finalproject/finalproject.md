@@ -14,7 +14,7 @@ The first thing I had to do was gather housing data for the big island of Hawaii
 
 The next step was to load in the [lava flow data]() and the [fire risk data](). I used python scripts to make a selection from each of the data sets because there was a lot of extra information that wasn't needed. For instance, the lava flow data had over 9 specific zones, but zone 9 through zone 3 were used to show historic lava flows. Zones 1 through 3 were the zones that showed current lava flow risk, so I needed to select only these zones. The same system was used for the fire risk data. The scripts I used are shown below.
 
-Script to load in and edit lava flow data:
+__Script to load in and edit lava flow data:__
 
 ```python
 lavahazard = QgsVectorLayer('Z:/GES486/Final_Project/Volcano_Lava_Flow_Hazard_Zones/Volcano_Lava_Flow_Hazard_Zones.shp', 'lavahazard')
@@ -87,6 +87,7 @@ The results need to be looked at differently than how you would normally read th
 As an extra visual, I was curious to see how the island looked after the eruption of Kilauea on May 3, 2018. This is a recent eruption that could show these lava flow zones in real life, and not just as a shape file. To do this, I had to download four sets of Landsat 8 imagery from the [USGS Earth Explorer](https://earthexplorer.usgs.gov/). I then took only the thermal band from each set and created a mosaic from them in ArcMap. The thermal mosaic was then given a color ramp and overlaid with a DEM to show how the temperature differences on the island around that time. There are some errors due to clouds, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island. 
 
 __Thermal IR 3D Map:__
+
 ![](lavaflow.gif)
 
 
