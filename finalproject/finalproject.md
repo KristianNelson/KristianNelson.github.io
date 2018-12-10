@@ -51,7 +51,7 @@ FireHazardSelect = QgsVectorLayer('Z:/GES486/Final_Project/Fire_Risk_Areas/fireh
 FireHazardSelect.isValid()
 QgsProject.instance().addMapLayer(FireHazardSelect)
 ```
-Maps were then created showing the fire risk and lava flow risk around the island and are shown below. I focused in on three areas of the island that had a lot of expensive homes to see where they landed in these risk areas. Waikoloa Village is in the northwestern part of the island, Hilo is in the northeastern side of the island, and Kahaluu-Keauhou is in the southwester side of the island just above Captain Cook. The map below shows town locations which was taken from [World Atlas](https://www.worldatlas.com/webimage/countrys/namerica/usstates/hihibig.htm).
+Maps were then created showing the fire risk and lava flow risk around the island and are shown below. I focused in on three areas of the island that had a lot of expensive homes to see where they landed in these risk areas. Waikoloa Village is in the northwestern part of the island, Hilo is in the northeastern side of the island, and Kahaluu-Keauhou is in the southwester side of the island just above Captain Cook. The map below shows town locations which was taken from [Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps).
 
 __Location Map:__
 
