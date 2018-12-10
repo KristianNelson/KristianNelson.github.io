@@ -63,4 +63,10 @@ According to this map, Waikoloa and Kahaluu-Keaulou ar both in high risk areas o
 
 I was curious to see if there was any correlation between lava flow paths and areas of fire risk. Are high risk areas of fires also at high risk areas of lava flow? Or are high risk areas of lava flow at low risk of fires due to lack of dense vegetation? To do this, I ran a multivariate Moran's I to build a cluster map and a significance map. These maps are shown below. 
 
+__Significance Map:__
 
+![](sigmapjpg.jpg)
+
+__Cluster Map:__
+
+![](clustermapjpg.jpg)
