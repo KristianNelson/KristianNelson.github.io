@@ -61,7 +61,6 @@ title: Kristian Nelson GIS Portfolio
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
 <small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
-
 <small>__Data__:
 
 </div>
