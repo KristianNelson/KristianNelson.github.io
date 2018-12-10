@@ -42,7 +42,7 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 3: Bloede Dam Removal
 
-![](bloededam/dam.png)
+![](bloededam/dam2.png)
 [See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
 <small>__Tools__: Agisoft Photoscan, ArcMap, Cloud Compare
