@@ -52,6 +52,10 @@ title: Kristian Nelson GIS Portfolio
 
 <div style="display: table-cell; width:370px" markdown="1">
 
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
 ### Project 4
 
 ![](finalproject/coverphoto.JPG)
