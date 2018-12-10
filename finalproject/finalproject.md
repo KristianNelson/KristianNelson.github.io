@@ -4,7 +4,7 @@ title: Fire and Lava Flow Risk Assessment for Expensive Homes in Hawaii
 
 This project looks at the risks of lava flow and wild fires that expensive homes in Hawaii face. For this project, I wanted to create a mock-up house insurance quote job that would look at where homes on Hawaii are at most risk. Insurance companies then use these findings to determine whether they want to insure a home or not, and how much the insurance will cost. I specifically looked at lava flow and fire because those were the two variables I was most interested in. Of course, there are many other risks that home owners face in this part of the world. 
 
-For context and to get a visual of what this island looks like, here is a 3D map of the big island of Hawaii. This was created from a [downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html) and an overlaid basemap in QGIS. 
+For context and to get a visual of what this island looks like, here is a 3D map of the big island of Hawaii. This was created from a [downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html) and an overlaid basemap in QGIS. Elevations were exaggerated to show a better visual. 
 
 ![](truecolorgif.gif)
 
@@ -59,7 +59,15 @@ __Lava Flow Risk Map:__
 
 You can see that the town of Kahaluu-Keauhou does not have any risk of lava flow based on current active volcanoes. The town of Hilo has some risk of lava flow, but is not at high risk or even at medium risk. Only the resort area of Waikoloa Village has some risk of lava flow, but the town to the east does not have any risk based on current active volcanoes. 
 
-In addition to this map, 3D maps were created to show why the lava flows the way it does
+In addition to this map, 3D maps were created to show why the lava flows the way it does. This was created using the same [downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html) and overlaying the lava flow shapefile. The first image shows the north side of the island and the second shows the south side. As you can see, there is a lot more risk on the south side. 
+
+__North Side:__
+
+
+
+__South Side:__
+
+
 
 __Fire Risk Map:__
 
