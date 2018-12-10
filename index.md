@@ -54,7 +54,7 @@ title: Kristian Nelson GIS Portfolio
 
 ### Project 4
 
-![](finalproject/coverphoto.jpg)
+![](finalproject/coverphoto.JPG)
 
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
