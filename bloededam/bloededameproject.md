@@ -26,3 +26,13 @@ The last orthomosaic is from October 2018, after the dam removal was almost comp
 
 ![](ortho4.png)
 
+Just from the orthophotos alone, you can see a drastic change in the channel shape. In order to see the amount of sediment that moved from behind the dam, we created DEMs from each set of imagery, which were then used to make difference of elevation maps. The DEMs created are shown below. 
+
+
+
+
+
+
+
+
+
