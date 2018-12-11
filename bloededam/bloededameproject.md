@@ -6,7 +6,7 @@ The Bloede Dam removal was one of the biggest dam removals on the east coast, wh
 
 Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. Using drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. The point clouds that were created were then used to make digital elevation models (DEMs) as well as orthomosaics of the river. An example of what the point cloud looks like is shown below. 
 
-![](LeafOffMed (1).JPG)
+![](LeafOffMedd.JPG)
 
 The DEMs can be used to make elevation difference maps which enable us to make volumetric calculations of the sediment behind the dam and around the channel. The orthomosaics have the potentail to allow us to track changes in substrate type around the channel. 
 
