@@ -66,7 +66,8 @@ title: Kristian Nelson GIS Portfolio
  [USGS Earth Explorer](https://earthexplorer.usgs.gov/), [DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html), [Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps), [Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5), [Lava Flow Data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones), [Fire Risk Data](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
  
 </div>
-
+</div>
+<div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:700px; margin-right:3px" markdown="1">
 
 ### Project 5: UMBC Soil Erosion
