@@ -100,6 +100,10 @@ __Thermal IR 3D Map:__
 
 There are some errors due to clouds and the mosaic process, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island.
 
+The map below was created to show a comparison of the thermal IR and the lava flow zones. You can see that there is some overlap of where there is high temperature and where there is a risk of lava flow. Specifically, you will notice that where the eruption was is also where there is high risk of lava flow. 
+
+![](thermalanalysis.jpg)
+
 From the information shown, you can see the areas around Hawaii that have risks that other areas don't have. This is useful information for not only insurance companies, but people who are trying to build a home or buy a home somewhere on the island. With the eruption of Kilauea just last summer, the threat of lava flow is still very real, and the same goes for fires. It is imporant to understand where these risks occur spatially so that policies can be put in place and people can stay safe. My analysis is not something that only applies to Hawaii, but is something that can be done for areas all over the world. Whether it is flooding, hurricanes, or any other natural disaster, risk assessments are valuable to not only companies, but regular people who are trying to stay safe in this changing climate. With climate change becoming more of risk and previously safe environments becoming more hazardous, it is extremely important to know where areas of risk are so that further damage can be avoided. 
 
 __Author:__ Kristian Nelson
