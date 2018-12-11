@@ -61,8 +61,10 @@ title: Kristian Nelson GIS Portfolio
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
 <small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
-<small>__Data__:
 
+<small>__Data__: [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
+ [USGS Earth Explorer](https://earthexplorer.usgs.gov/), [DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html), [Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps), [Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5), [Lava Flow Data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones), [Fire Risk Data](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
+ 
 </div>
 </div>
 <div style="display:table-row; width:100%; table-layout: fixed">
