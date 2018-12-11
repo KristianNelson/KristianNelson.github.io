@@ -31,7 +31,7 @@ Just from the orthophotos alone, you can see a drastic change in the channel sha
 ![](dems.png)
 
 
-__Team Members:__ Matthew Baker, Andrew Miller, Kristian Nelson, Ryand Wooldridge
+__Team Members:__ Matthew Baker, Andrew Miller, Kristian Nelson, Ryan Wooldridge
 
 
 
