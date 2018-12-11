@@ -13,7 +13,7 @@ title: Kristian Nelson GIS Portfolio
 
 <small>__Tools:__ QGIS, ArcMap, Atom, SQL
  
-<small>__Data Source:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
+<small>__Data:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
  [MD iMap](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)
  
 </div>
@@ -31,7 +31,7 @@ title: Kristian Nelson GIS Portfolio
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
  
-<small>__Data Source:__ [Reef Base](http://www.reefbase.org/main.aspx),
+<small>__Data:__ [Reef Base](http://www.reefbase.org/main.aspx),
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
 
 </div>
