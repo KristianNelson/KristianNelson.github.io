@@ -67,7 +67,7 @@ In addition to this map, 3D maps were created to show why the lava flows the way
 
 __North Side:__
 
-![](v2northside.jpg)
+![](v2northside3d.jpg)
 
 __South Side:__
 
