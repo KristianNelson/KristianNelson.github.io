@@ -8,16 +8,17 @@ Our team specifically is testing a new method of physical monitoring which utili
 
 So far, we have 4 completed orthomosaics of the dam. The first orthomosaic is from May 2018 which was before the second Ellicott City flood. That orthomosaic is shown below.
 
+![](ortho1.png)
 
 The second orthomosaic is from September 2018, the day before the dam removal started. That orthomosaic is shown below. 
 
-
+![](ortho2.png)
 
 The third orthomosaic is also from September 2018, and was created from imagery taken the day after the dam removal started. That orthomosaic is shown below 
 
-
+![](ortho3.png)
 
 The last orthomosaic is from October 2018, after the dam removal was almost complete. That orthomosaic is shown below. 
 
-
+![](ortho4.png)
 
