@@ -12,7 +12,12 @@ The first thing I had to do was gather housing data for the big island of Hawaii
 
 ![](ParcelQuery.JPG)
 
-The next step was to load in the [lava flow data]() and the [fire risk data](). I used python scripts to make a selection from each of the data sets because there was a lot of extra information that wasn't needed. For instance, the lava flow data had over 9 specific zones, but zone 9 through zone 3 were used to show historic lava flows. Zones 1 through 3 were the zones that showed current lava flow risk, so I needed to select only these zones. The same system was used for the fire risk data. The scripts I used are shown below.
+.](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones)
+
+My fire risk data will come from [here.](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
+
+
+The next step was to load in the [lava flow data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones) and the [fire risk data](http://geoportal.hawaii.gov/datasets/fire-risk-areas). I used python scripts to make a selection from each of the data sets because there was a lot of extra information that wasn't needed. For instance, the lava flow data had over 9 specific zones, but zone 9 through zone 3 were used to show historic lava flows. Zones 1 through 3 were the zones that showed current lava flow risk, so I needed to select only these zones. The same system was used for the fire risk data. The scripts I used are shown below.
 
 __Script to load in and edit lava flow data:__
 
@@ -107,4 +112,4 @@ __Languages:__ HTML, Markdown, Python, SQL
 __Applications:__ QGIS, ENVI, Arcmap
 
 __Data Sources:__ [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
-[USGS Earth Explorer](https://earthexplorer.usgs.gov/),[downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html),[Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps),[Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5),
+[USGS Earth Explorer](https://earthexplorer.usgs.gov/),[downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html),[Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps),[Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5),[Lava Flow Data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones), [Fire Risk Data](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
