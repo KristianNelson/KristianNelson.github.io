@@ -30,6 +30,9 @@ Just from the orthophotos alone, you can see a drastic change in the channel sha
 
 ![](dems.png)
 
+I then took the DEM created immediately after the dam was breached and subtracted the Octover DEM from it. This produced a DEM of differnece which shows the elevation difference between the two models. This map is below
+
+![](demofdiff.png)
 
 __Team Members:__ Matthew Baker, Andrew Miller, Kristian Nelson, Ryan Wooldridge
 
