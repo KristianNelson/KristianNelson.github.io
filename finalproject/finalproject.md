@@ -99,3 +99,12 @@ __Thermal IR 3D Map:__
 ![](lavaflow.gif)
 
 From the information shown, you can see the areas around Hawaii that have risks that other areas don't have. This is useful information for not only insurance companies, but people who are trying to build a home or buy a home somewhere on the island. With the eruption of Kilauea just last summer, the threat of lava flow is still very real, and the same goes for fires. It is imporant to understand where these risks occur spatially so that policies can be put in place and people can stay safe. My analysis is not something that only applies to Hawaii, but is something that can be done for areas all over the world. Whether it is flooding, hurricanes, or any other natural disaster, risk assessments are valuable to not only companies, but regular people who are trying to stay safe in this changing climate. With climate change becoming more of risk and previously safe environments becoming more hazardous, it is extremely important to know where areas of risk are so that further damage can be avoided. 
+
+__Author:__ Kristian Nelson
+
+__Languages:__ HTML, Markdown, Python, SQL
+
+__Applications:__ QGIS, ENVI, Arcmap
+
+__Data Sources:__ [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
+[USGS Earth Explorer](https://earthexplorer.usgs.gov/),[downloaded DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html),[Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps),[Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5),
