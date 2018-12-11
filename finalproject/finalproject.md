@@ -67,11 +67,11 @@ In addition to this map, 3D maps were created to show why the lava flows the way
 
 __North Side:__
 
-![](northside3d.JPG)
+![](v2northside.jpg)
 
 __South Side:__
 
-![](southside3d.JPG)
+![](v2southside3d.jpg)
 
 __Fire Risk Map:__
 
@@ -98,7 +98,9 @@ __Thermal IR 3D Map:__
 
 ![](lavaflow.gif)
 
-There are some errors due to clouds and the mosaic process, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island.
+There are some errors due to clouds and the mosaic process, but you can see clearly where the ground is hotter due to lack of vegetation, as well as where the lava was actually flowing on the south side of the island. The image below stops on the side where the eruption of 2018 occured. 
+
+![](thermalstill.jpg)
 
 The map below was created to show a comparison of the thermal IR and the lava flow zones. You can see that there is some overlap of where there is high temperature and where there is a risk of lava flow. Specifically, you will notice that where the eruption was is also where there is high risk of lava flow. 
 
