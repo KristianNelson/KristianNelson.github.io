@@ -88,7 +88,7 @@ __Cluster Map:__
 
 The results need to be looked at differently than how you would normally read this type of map. The highest value of risk in table of this data is 1. This means that the highest value (3) means low risk of either lava flow or fire. So areas that are High-High have low risk of lava flow, and low risk of fires. Areas with Low-Low have high risk of lava flow, and high risk of fires. To answer my question above, we look at the areas that have a value of High-Low. The map shows that there are areas with high risk of lava flow, but low risk of fires. These areas potentially do not have a lot of vegetation which might prove that most of the time, where there is high risk of lava flow, there is low risk of fires.
 
-I also did conducted 2 univariate moran's I for both fire and lava risk to see if they they were correlated with themselves. The results show that fire risk areas are almost perfectly random, and they are not clustered nor dispersed. 
+I also did conducted 2 univariate moran's I for both fire and lava risk to see if they they were correlated with themselves. The results show that fire risk areas are almost perfectly random, and they are not clustered nor dispersed. On the other hand, lava flow risk is very spatially autocorreted showing a positive correlation, which means that it is very clustered. 
 
 ![](fireunivariatemoransi.png)
 
