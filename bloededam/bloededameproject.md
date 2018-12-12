@@ -34,6 +34,10 @@ I then took the DEM created immediately after the dam was breached and subtracte
 
 ![](demofdiff.png)
 
+A DEM of difference was also created by subracting a DEM from MGS and our October DEM. This map is shown below. 
+
+1[](usgs_dod_mapV2.jpg)
+
 __Team Members:__ Matthew Baker, Andrew Miller, Kristian Nelson, Ryan Wooldridge
 
 
