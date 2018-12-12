@@ -3,7 +3,7 @@ title: Kristian Nelson GIS Portfolio
 ---
 
 <!--This is the first row of projects -->
-<div style="display:table-row; width:120%; table-layout: fixed">
+<div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:700px; margin-right:10px" markdown="1">
  
 ### Project 1: Baltimore Industries
@@ -37,7 +37,7 @@ title: Kristian Nelson GIS Portfolio
 </div>
 </div>
 <!--This is the second row of projects -->
-<div style="display:table-row; width:120%; table-layout: fixed">
+<div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:700px; margin-right:3px" markdown="1">
 
 ### Project 3: Bloede Dam Removal
