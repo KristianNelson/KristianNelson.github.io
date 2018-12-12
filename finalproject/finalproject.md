@@ -90,9 +90,13 @@ The results need to be looked at differently than how you would normally read th
 
 I also did conducted 2 univariate moran's I for both fire and lava risk to see if they they were correlated with themselves. The results show that fire risk areas are almost perfectly random, and they are not clustered nor dispersed. 
 
-![](fireunivariatemorans.png)
+![](fireunivariatemoransi.png)
 
 ![](lavaunivariatemorans.png)
+
+To get a better look at how these two variables were spatially autocorrelated with each other if at all, I ran a bivariate moran's I analysis. The results show that there is a slight negative correlation, but the value is close to 0 so they are also pretty random. 
+
+![](bivariatemoransi.png)
 
 As an extra visual, I was curious to see how the island looked after the eruption of Kilauea on May 3, 2018. A map of the areas this eruption affected is shown below, which was taken from [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/).
 
