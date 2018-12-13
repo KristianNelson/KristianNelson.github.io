@@ -4,6 +4,10 @@ title: Phyiscal Monitoring Of Bloede Dam Demolition Via Drone Imagery
 
 The Bloede Dam removal was one of the biggest dam removals on the east coast, which had a goal of improving public safety as well as returning the river back to its natural form so that fish populations could recover. Our team at UMBC, along with other teams at USGS and MGS, were employed by American Rivers to track the sediment deposition along the channel as the sediment load from behind the dam drained. 
 
+The dam was removed on September 11th, 2018. You can watch the dam breach below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nINVNlcLoeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. Using drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. The point clouds that were created were then used to make digital elevation models (DEMs) as well as orthomosaics of the river. An example of what the point cloud looks like is shown below. 
 
 ![](LeafOffMedd.JPG)
