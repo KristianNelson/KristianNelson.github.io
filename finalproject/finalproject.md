@@ -55,7 +55,7 @@ Maps were then created showing the fire risk and lava flow risk around the islan
 
 __Location Map:__
 
-<img src="https://kristiannelson.github.io/finalproject/bigmap.jpg" alt="alt text" width="700" height="700">
+<img src="https://kristiannelson.github.io/finalproject/bigmap.jpg" alt="alt text" width="600" height="600">
 
 __Lava Flow Risk Map:__
 
