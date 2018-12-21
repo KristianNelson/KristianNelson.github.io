@@ -1,5 +1,6 @@
 ---
 title: Phyiscal Monitoring Of Bloede Dam Demolition Via Drone Imagery
+feature_image: "93BBevZvRECuhVSnp0AoCA_thumb_432.jpg"
 ---
 
 The Bloede Dam removal was one of the biggest dam removals on the east coast, which had a goal of improving public safety as well as returning the river back to its natural form so that fish populations could recover. Our team at UMBC, along with other teams at USGS and MGS, were employed by American Rivers to track the sediment deposition along the channel as the sediment load from behind the dam drained. 
