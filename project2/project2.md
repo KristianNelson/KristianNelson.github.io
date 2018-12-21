@@ -1,5 +1,6 @@
 ---
 title: Global Coral Bleaching Assessment
+feature_image: "project2header.jpg"
 ---
 
 Coral reef bleaching is a major issue that has become an increasing concern
