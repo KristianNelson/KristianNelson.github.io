@@ -1,6 +1,6 @@
 ---
 title: Baltimore City Industries
-feature_image: "3dmapv2.jpg"
+feature_image: "p1photo.png"
 ---
 
 ![](project1map.jpg)
