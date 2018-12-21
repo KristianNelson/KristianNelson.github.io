@@ -33,3 +33,5 @@ is also where you see a lot of these industrial properties.
 
  __Data Source:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
  [MD iMap](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)
+ 
+ <small> Cover photo retrieved from: [Monster Displays](https://www.monsterdisplays.com/Baltimore-Maryland-Trade-Show-Information-s/365.htm)
