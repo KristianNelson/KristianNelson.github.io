@@ -1,5 +1,6 @@
 ---
-title: Baltimore City Industry Map
+title: Baltimore City Industries
+feature_image: "3dmapv2.jpg"
 ---
 
 ![](project1map.jpg)
