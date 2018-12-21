@@ -193,3 +193,5 @@ __Projection:__ World Robinson
 
 __Data Source:__ [Reef Base](http://www.reefbase.org/main.aspx),
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
+
+Cover image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flynn_Reef_banner.jpg)
