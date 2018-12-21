@@ -47,7 +47,9 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 ![](bloededam/dam2.png)
 [See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
-<small>__Tools__: Agisoft Photoscan, ArcMap, Cloud Compare
+<small>__Tools:__ Agisoft Photoscan, ArcMap, Cloud Compare
+ 
+<small>__Data:__ All imagery was aquired by drones, imagery was processed and used to create the final outputs. Some elevation data was used from MGS.
 
 </div>
 
