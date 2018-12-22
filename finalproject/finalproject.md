@@ -1,5 +1,6 @@
 ---
 title: Hawaii Housing Risk Assessment 
+feature_image: "project3header.jpg"
 ---
 
 This project looks at the risks of lava flow and wild fires that could potentially affect expensive homes in Hawaii. For this project, I wanted to create a mock-up house insurance job that would look at where homes on Hawaii are at most risk. Insurance companies then use these findings to determine whether they want to insure a home or not, and how much the insurance will cost. I specifically looked at lava flow and fire because those were the two variables I was most interested in. Of course, there are many other risks that home owners face in this part of the world. 
@@ -125,3 +126,5 @@ __Applications:__ QGIS, ENVI, Arcmap, GeoDa
 
 __Data Sources:__ [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
  [USGS Earth Explorer](https://earthexplorer.usgs.gov/), [DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html), [Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps), [Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5), [Lava Flow Data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones), [Fire Risk Data](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
+ 
+ Cover Photo From [Hawaii Life](https://www.hawaiilife.com/blog/big-island-lava-zones-2018-kilauea-eruptive-activity/), which was taken by resident Greg Chunn
