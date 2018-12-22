@@ -10,4 +10,6 @@ specify areas around campus that needed plantings or some other type of soil sta
 If you are interested in learning more about the project, you can read the research paper [here.](finalerosionpaperedit.pdf)
 
 You can also view the research poster that was created [here.](erosionposter.pdf)
+
+
 Cover image from the [Baltimore Sun](https://www.baltimoresun.com/news/maryland/education/higher-ed/bs-md-what-is-umbc-20180316-story.html)
