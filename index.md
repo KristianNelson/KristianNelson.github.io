@@ -61,7 +61,7 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 
 ### Project 4: Hawaii Housing Risk
 
-![](finalproject/coverphoto.JPG)
+![](finalproject/coverphoto1.JPG)
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
 <small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
