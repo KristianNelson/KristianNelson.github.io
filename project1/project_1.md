@@ -3,6 +3,8 @@ title: Baltimore City Industries
 feature_image: "project1head.jpg"
 ---
 
+This is a super simple entry level project that I did that shows some skills with SQL. Using simple queries can help simplify large datasets as well as help navigate to certain information that is needed. In this case, I simply wanted to know where the concentration of industrial businesses with buildings worth more than $500,000 were located. This same method can be used to look at any other census data like residential or state information. 
+
 ![](project1map.jpg)
 
 This map shows the concentration of industrial properties
