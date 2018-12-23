@@ -1,5 +1,5 @@
 ---
-title: Phyiscal Monitoring Of Bloede Dam Demolition Via Drone Imagery
+title: Physical Monitoring Of Bloede Dam Demolition Via Drone Imagery
 feature_image: "93BBevZvRECuhVSnp0AoCA_thumb_432.jpg"
 ---
 
