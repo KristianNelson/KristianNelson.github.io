@@ -10,7 +10,7 @@ The dam was removed on September 11th, 2018. You can watch the dam breach below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nINVNlcLoeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. These 3D models are referenced to the ground by way of creating reference points along the river, which will be identified later in the imagery. My colleague Ryan Wooldridge and I were tasked with maintaining and creating these ground reference points.
+Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. These 3D models are referenced to the ground by way of creating reference points along the river, which will be identified later in the imagery. My colleague, Ryan Wooldridge, and I were tasked with maintaining and creating these ground reference points.
 
 ![](IMG_0568.JPG)
 
