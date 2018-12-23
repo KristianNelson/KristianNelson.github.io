@@ -11,4 +11,4 @@ Contact via email: __kristian.nelson11@gmail.com__.
 
 or 
 
-Visit my [LinkedIn](www.linkedin.com/in/kristiannelsongis/)
+Visit my [LinkedIn](https://www.linkedin.com/in/kristiannelsongis/)
