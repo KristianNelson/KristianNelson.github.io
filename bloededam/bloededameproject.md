@@ -12,7 +12,24 @@ The dam was removed on September 11th, 2018. You can watch the dam breach below:
 
 Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. These 3D models are referenced to the ground by way of creating reference points along the river, which will be identified later in the imagery. My colleague Ryan Wooldridge and I were tasked with maintaining and creating these ground reference points 
 
+<!--This is the first row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:700px; margin-right:10px" markdown="1"
 
+<kbd><img src="https://KristianNelson.github.io/project1/p1photo.png" /></kbd>
+
+</div>
+
+<div style="display: table-cell; width:100px">&nbsp;	
+
+</div>
+
+<div style="display: table-cell; width:700px" markdown="1">
+
+<kbd><img src="https://KristianNelson.github.io/project2/p2photo.png" /></kbd>
+ 
+</div>
+</div>
 
 Using the drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. The point clouds that were created were then used to make digital elevation models (DEMs) as well as orthomosaics of the river. An example of what the point cloud looks like is shown below. 
 
