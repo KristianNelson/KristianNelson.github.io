@@ -1,8 +1,5 @@
 ---
 title: Kristian Nelson GIS Portfolio
-feature_image: "IMG_8885.JPG"
-feature_text: Kristian Nelson GIS Portfolio(#ffffff)
-
 ---
 
 Welcome to my GIS portfolio! Here you can find some examples of projects I have worked on personally, or large scale research projects I am involved in. I am a graduate of the University of Maryland, Baltimore County and looking to get into the industry! I am seeking career building opportunities in the field of Environmental Science and Geography as an GIS Analyst, GIS Specialist, Environmental Specialist, or other related positions where I can apply and improve my current skills, expand upon my knowledge from others in the field, and show my passion through my work. Feel free to contact me via email if you have any questioins. Contact information is on the Contact Page. 
