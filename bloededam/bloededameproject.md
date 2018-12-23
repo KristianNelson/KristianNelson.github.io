@@ -16,7 +16,7 @@ Our team specifically is testing a new method of physical monitoring which utili
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:700px; margin-right:10px" markdown="1"
 
-<kbd><img src="https://KristianNelson.github.io/project1/p1photo.png" /></kbd>
+![](IMG_0469.JPG)
 
 </div>
 
@@ -26,7 +26,7 @@ Our team specifically is testing a new method of physical monitoring which utili
 
 <div style="display: table-cell; width:700px" markdown="1">
 
-<kbd><img src="https://KristianNelson.github.io/project2/p2photo.png" /></kbd>
+![](IMG_0568.JPG)
  
 </div>
 </div>
