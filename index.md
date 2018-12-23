@@ -14,7 +14,8 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 [See more details here.](https://kristiannelson.github.io/project1/project_1.html)
 
 <small>__Tools:__ QGIS, ArcMap, Atom, SQL
-                                         <small>__Data:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
+                                         
+<small>__Data:__ [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/),
  [MD iMap](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)
  
 </div>
@@ -31,7 +32,8 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 [See more details here.](https://kristiannelson.github.io/project2/project2.html)
 
 <small>__Tools:__ QGIS, Atom, Python, Markdown
-                                               <small>__Data:__ [Reef Base](http://www.reefbase.org/main.aspx),
+
+<small>__Data:__ [Reef Base](http://www.reefbase.org/main.aspx),
 [Natural Earth Data](https://www.naturalearthdata.com/downloads/50m-raster-data/)
 
 </div>
@@ -46,7 +48,8 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 [See more details here.](https://KristianNelson.github.io/bloededam/bloededameproject.html)
 
 <small>__Tools:__ Agisoft Photoscan, ArcMap, Cloud Compare
-                                                          <small>__Data:__ All imagery was aquired by drones, imagery was processed and used to create the final outputs. Some elevation data was used from MGS.
+
+<small>__Data:__ All imagery was aquired by drones, imagery was processed and used to create the final outputs. Some elevation data was used from MGS.
 
 </div>
 
@@ -62,7 +65,8 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 [See more details here.](https://KristianNelson.github.io/finalproject/finalproject.html)
 
 <small>__Tools__: QGIS, Python, SQL, ENVI, ArcMap, GeoDa, Markdown
-                                                                  <small>__Data__: [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
+
+<small>__Data__: [Hawaii Forest & Trail](https://www.hawaii-forest.com/volcano-eruption-update/), 
  [USGS Earth Explorer](https://earthexplorer.usgs.gov/), [DEM](http://www.soest.hawaii.edu/coasts/data/hawaii/dem.html), [Hawaii Guide](https://www.hawaii-guide.com/big-island/big-island-hawaii-maps), [Parcel Data](http://geoportal.hawaii.gov/datasets/1eb5fa03038d49cba930096ea67194e0_5), [Lava Flow Data](http://geoportal.hawaii.gov/datasets/volcano-lava-flow-hazard-zones), [Fire Risk Data](http://geoportal.hawaii.gov/datasets/fire-risk-areas)
  
 </div>
