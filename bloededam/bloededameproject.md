@@ -10,7 +10,11 @@ The dam was removed on September 11th, 2018. You can watch the dam breach below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nINVNlcLoeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. Using drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. The point clouds that were created were then used to make digital elevation models (DEMs) as well as orthomosaics of the river. An example of what the point cloud looks like is shown below. 
+Our team specifically is testing a new method of physical monitoring which utilizes emerging drone techonology to create virtual models of the river. These 3D models are referenced to the ground by way of creating reference points along the river, which will be identified later in the imagery. My colleague Ryan Wooldridge and I were tasked with maintaining and creating these ground reference points 
+
+
+
+Using the drone aerial imagery, photos were used in a structure-from-motion process to recreate the reaches in digital form. The point clouds that were created were then used to make digital elevation models (DEMs) as well as orthomosaics of the river. An example of what the point cloud looks like is shown below. 
 
 ![](LeafOffMedd.JPG)
 
