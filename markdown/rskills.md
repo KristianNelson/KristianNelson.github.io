@@ -25,8 +25,6 @@ options(tigris_use_cache = TRUE)
 census_api_key("02fd95ffa4b152f4183ec87b9bc382caf029e468")
 ```
 
-#Before knitting document, install all packages!
-
 This is where I will get the data for Baltimore County. In the get.acs function I specificed Baltimore County as the county so it would only retrieve the data for that area. 
 ```{r, warning=FALSE}
 fd <- get_acs(geography = "tract", 
