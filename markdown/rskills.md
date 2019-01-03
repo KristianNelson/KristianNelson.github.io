@@ -7,11 +7,11 @@ This project was done my junior year of college, and the goal was to implement s
 
 ## Baltimore County
 
-```{r setup, include=FALSE}
+```{r}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, warning=FALSE}
+```{r}
 #install.packages("tidycensus")
 #install.packages("tidyverse")
 #install.packages("tigris")
@@ -56,7 +56,7 @@ balcit_comp <- balcit %>% filter(walking_rate >= 0 & B19301_001E >= 0)
 
 This code runs a moran's test for per capita income which calculates if the variable is spatially autocorrelated with itself. 
 
-```{r bmore_analysis}
+```{r}
 #install.packages("spdep")
 library(spdep)
 library(sf)
@@ -193,6 +193,7 @@ ggmap(BaltimoreMap) +
 ```
 
 The code below takes values in the walking rate column and reassigns them new values high, medium, and low. 
+
 ```{r}
 walk_hml <- function(walk_rate) {
   sapply(walk_rate, function(walk_rate){
