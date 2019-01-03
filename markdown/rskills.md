@@ -2,7 +2,7 @@
 title: Data Analysis of Maryland Counties Using R Markdown
 ---
 
-This project was done my junior year of college, and the goal was to implement some R Markdown skills and create models comparing per capita income and walking rate to work in Anne Arundel County, Baltimore County, and Baltimore City. The code below is only for Baltimore County since the code is similar for all three places. There are no visuals for this page but, a link to a PDF of this file can be found by clicking [this link](). This page is only for the purpose of showcasing my entry level experience with using R. 
+This project was done my junior year of college, and the goal was to implement some R Markdown skills and create models comparing per capita income and walking rate to work in Anne Arundel County, Baltimore County, and Baltimore City. The code below is only for Baltimore County since the code is similar for all three places. There are no visuals for this page but, a link to a PDF of this file can be found by clicking [this link](https://kristiannelson.github.io/markdown/488github.pdf). This page is only for the purpose of showcasing my entry level experience with using R. 
 
 ## Baltimore County
 
