@@ -84,3 +84,19 @@ Welcome to my GIS portfolio! Here you can find some examples of projects I have 
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+</div>
+
+<div style="display: table-cell; width:100px">&nbsp;	
+
+</div>
+
+<div style="display: table-cell; width:700px" markdown="1">
+
+### Project 6: R Markdown Skills
+
+<kbd><img src="https://KristianNelson.github.io/markdown/444.png" /></kbd>
+[See more details here.](https://kristiannelson.github.io/markdown/rskills.html)
+
+<small>__Tools:__ R Markdown
+
+</div>
