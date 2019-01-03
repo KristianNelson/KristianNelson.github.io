@@ -29,7 +29,7 @@ census_api_key("02fd95ffa4b152f4183ec87b9bc382caf029e468")
 This is where I will get the data for Baltimore County. In the get.acs function I specificed Baltimore County as the county so it would only retrieve the data for that area. 
 
 
-```{r, warning=FALSE}
+```{r}
 fd <- get_acs(geography = "tract", 
                  variables = c("B08301_019","B08301_001","B19301_001"),
                  state = c("MD"), county = "Baltimore County", geometry = TRUE, output = "wide")
