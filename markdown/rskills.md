@@ -55,7 +55,8 @@ balcit_comp <- balcit %>% filter(walking_rate >= 0 & B19301_001E >= 0)
 ```
 
 This code runs a moran's test for per capita income which calculates if the variable is spatially autocorrelated with itself. 
-```{r bmore_analysis, warning=FALSE}
+
+```{r bmore_analysis}
 #install.packages("spdep")
 library(spdep)
 library(sf)
@@ -67,7 +68,7 @@ balcit_comp.moran
 
 This code runs a moran's test for walking rate which calculates if the variable is spatially autocorrelated with itself. 
 
-```{r, warning=FALSE}
+```{r}
 #install.packages("spdep")
 library(spdep)
 library(sf)
