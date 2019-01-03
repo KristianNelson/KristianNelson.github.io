@@ -27,6 +27,7 @@ census_api_key("02fd95ffa4b152f4183ec87b9bc382caf029e468")
 ```
 
 This is where I will get the data for Baltimore County. In the get.acs function I specificed Baltimore County as the county so it would only retrieve the data for that area. 
+
 ```{r, warning=FALSE}
 fd <- get_acs(geography = "tract", 
                  variables = c("B08301_019","B08301_001","B19301_001"),
@@ -34,27 +35,25 @@ fd <- get_acs(geography = "tract",
 metros <- core_based_statistical_areas(cb = TRUE) %>%
   filter(GEOID %in% c("12580")) %>%
   select(metro_name = NAME)
-
 balcit <- st_join(fd, metros, join = st_within, left = FALSE) 
 head(balcit)
 ```
 
 This section divides the amount of people that walk to work by the total number of people using all types of transportation to get the walking rate.  
+
 ```{r}
 balcit$walking_rate <- balcit$B08301_019E / balcit$B08301_001E
 ```
-
 
 ```{r}
 balcit.lm <- lm(balcit$B19301_001E ~ balcit$walking_rate)
 ```
 
-
 ```{r}
 balcit_comp <- balcit %>% filter(walking_rate >= 0 & B19301_001E >= 0)
 ```
 
-This code runs a moran's test for per capita income which calculates if the variable is spatially autocorrelated with itslef. 
+This code runs a moran's test for per capita income which calculates if the variable is spatially autocorrelated with itself. 
 ```{r bmore_analysis, warning=FALSE}
 #install.packages("spdep")
 library(spdep)
@@ -65,7 +64,8 @@ balcit_comp.moran <- moran.test(balcit_comp$B19301_001E, listw=ww, randomisation
 balcit_comp.moran
 ```
 
-This code runs a moran's test for walking rate which calculates if the variable is spatially autocorrelated with itslef. 
+This code runs a moran's test for walking rate which calculates if the variable is spatially autocorrelated with itself. 
+
 ```{r, warning=FALSE}
 #install.packages("spdep")
 library(spdep)
@@ -94,6 +94,7 @@ ggplot(balcit, aes(x = balcit$walking_rate , y = balcit$B19301_001E)) +
 The graph shown above shows that theses two datasets are in fact correlated. It shows that as per capita income increases, the walking rate decreases. This means that in the Baltimore County area, people who make more money are less likely to walk to work. This is the opposite than what is found in Baltimore City. 
 
 This code turns the dataset into a spatial data base so it can be used in ggplot. 
+
 ```{r}
 library(broom)
 balcit_comp.sp <- as(balcit_comp, 'Spatial')
@@ -108,9 +109,9 @@ head(balcit_df)
 ```
 
 Below is the map for Walking Rate in Baltimore County.
+
 ```{r}
 library(ggplot2)
-
 ggplot() +                                               
   geom_polygon(                                         
     data = balcit_df,                                   
@@ -126,9 +127,9 @@ ggplot() +
 ```
 
 Below is the map for Per Capita Income in Baltimore County.
+
 ```{r}
 library(ggplot2)
-
 ggplot() +                                               
   geom_polygon(                                         
     data = balcit_df,                                   
@@ -142,7 +143,6 @@ ggplot() +
         panel.background = element_blank()) +            
   coord_fixed(1.3)                                         
 ```
-
 
 ```{r}
 #install.packages("ggmap")
@@ -221,16 +221,15 @@ summary(balcit$walking_rate)
 ```
 
 This code makes a new columb and brings in the outputs from the previous code. 
+
 ```{r}
 balcit <- balcit %>% mutate(walking_rate_hml = walk_hml(walking_rate))
-
 unique(balcit$walking_rate_hml)
-
 plot(balcit["walking_rate_hml"])
-
 ```
 
 This code takes the values for per capita income and reassigns them new values high, medium, and low.
+
 ```{r}
 pci_hml <- function(B19301_001E) {
   sapply(B19301_001E, function(B19301_001E){
@@ -246,7 +245,6 @@ pci_hml <- function(B19301_001E) {
     return("ERR")
   }
 })}
-
 # Testing our four outputs. This should all evaluate to TRUE
 pci_hml(NA) == "N/A" # case 1
 pci_hml(0.0) == "lo" # case 2
@@ -255,34 +253,31 @@ pci_hml(30000) == "md" # case 3
 pci_hml(51000) == "hi" # case 4
 pci_hml(101000) == "hi" # case 4
 pci_hml("meme") == "ERR" # else
-
 # You should modify this range because the max is about 0.5, and the 75% cutoff is about .1
 summary(balcit$B19301_001E)
 ```
 
 This code creates a new column from the new values created in the previous code. 
+
 ```{r}
 # Create the new column
 balcit <- balcit %>% mutate(pci_rate_hml = pci_hml(B19301_001E))
-
 # Now spit out the outputs (notice there's only low and medium)
 unique(balcit$pci_rate_hml)
-
 # Plot it
 plot(balcit["pci_rate_hml"])
-
 ```
 
 This code joins both of the new values into a new column to compare the two variables. 
+
 ```{r}
 balcit2 <- balcit
-
 balcit2 <- balcit2 %>% mutate(walkpci = paste(walking_rate_hml, pci_rate_hml, sep="&"))
-
 plot(balcit2["walkpci"])
 ```
 
 This turns the new dataset into a spatial dataframe so it can be used in ggplot. 
+
 ```{r}
 library(broom)
 balcit2.sp <- as(balcit2, 'Spatial')
@@ -297,9 +292,9 @@ head(balcit2_df)
 ```
 
 This code plots the most significant values from the new column that has both walking rate and per capita income in it. 
+
 ```{r}
 library(ggplot2)
-
 balsout <- ggplot() +                                               
   geom_polygon(data = balcit2_df, 
                aes(x = long, y = lat, group = group), 
@@ -327,13 +322,13 @@ balsout
 ```
 
 The next two blocks of codes create leaflet maps of both walking rate and per capita income. 
+
 ```{r}
 #install.packages("leaflet")
 #install.packages("tmap")
 library(leaflet)
 library(tmap)
 pal_fun <- colorQuantile("Purples", NULL, n = 4)
-
 p_popup <- paste0("<strong>Walking Rate: </strong>", balcit_comp.sp$walking_rate)
 leaflet(balcit_comp.sp) %>%
   addPolygons(
@@ -353,7 +348,6 @@ leaflet(balcit_comp.sp) %>%
 ```
 
 ```{r}
-
 library(leaflet)
 library(tmap)
 library(classInt)
